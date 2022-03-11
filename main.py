@@ -6,4 +6,4 @@ from selenium.webdriver.support import expected_conditions as EC
 
 PATH = "C:\Program Files (x86)\Google\Chrome\Application\chromedriver.exe"
 driver = webdriver.Chrome(PATH)
-driver.get("https://reddit.com/")
+driver.get('https://www.worldometers.info/coronavirus/')
